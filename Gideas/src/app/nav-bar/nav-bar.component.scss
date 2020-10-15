@@ -1,0 +1,19 @@
+$darkerblue:#0C0032;
+$darkblue:#190061;
+$blue:#240090;
+$saturblue:#4500ff;
+$darkgray:#282828;
+
+nav{
+  color: white;
+  background: $saturblue;
+  display: flex;
+  h1{
+    padding-left:1em;
+    font-family: 'Nunito';
+    font-weight: bolder;
+  }
+}
+.plus{
+  float: left;
+}

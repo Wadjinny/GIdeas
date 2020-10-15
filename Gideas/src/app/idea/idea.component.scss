@@ -1,0 +1,43 @@
+$darkerblue:#0C0032;
+$darkblue:#190061;
+$blue:#240090;
+$saturblue:#4500ff;
+$darkgray:#282828;
+
+
+.idea{
+  background: $saturblue;
+  padding: 10px;
+  margin: 20px 0px;
+  border-radius: 10px;
+  font-family: 'Nunito';
+
+}
+.title{
+  color: white;
+  margin-left: 1em;
+}
+.description{
+  color: $darkblue;
+  font-weight: 550;
+
+}
+.heart{
+  width:50px;
+  height:50px;
+  background: black;
+  display:inline-block;
+  position: relative;
+  top:20px;
+  border-radius: 25px;
+}
+.st{
+  display:inline-block;
+}
+.sociale{
+  width: fit-content;
+  margin-left: 20px;
+}
+.sociale * {
+  margin-left:10px;
+}
